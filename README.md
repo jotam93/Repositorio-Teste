@@ -1,0 +1,1 @@
+#Teste de instalação do GIT no Windows
