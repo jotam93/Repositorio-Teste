@@ -1,1 +1,1 @@
-#Teste de instalação do GIT no Windows
+#Teste de instalação do GIT no Windows e envio de ficheiros para o GitHub
